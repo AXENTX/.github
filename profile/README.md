@@ -1,6 +1,6 @@
 <div align="center">
 
-# AXENTX
+<img src="https://raw.githubusercontent.com/AXENTX/.github/main/assets/axentx-logo.svg" alt="AXENTX" width="320"/>
 
 **We build developer tools that actually work.**
 

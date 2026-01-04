@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <defs>
+    <!-- Gradient สีฟ้าสบายตา -->
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38BDF8"/>
+      <stop offset="100%" style="stop-color:#0EA5E9"/>
+    </linearGradient>
+    
+    <!-- Gradient สำหรับ accent -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06B6D4"/>
+      <stop offset="100%" style="stop-color:#3B82F6"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Icon: Abstract "flow" symbol -->
+  <g transform="translate(10, 15)">
+    <!-- Wave/flow lines -->
+    <path d="M5 35 Q20 20, 35 35 T65 35" stroke="url(#blueGradient)" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M5 50 Q20 35, 35 50 T65 50" stroke="url(#accentGradient)" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <path d="M5 65 Q20 50, 35 65 T65 65" stroke="url(#blueGradient)" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.4"/>
+  </g>
+  
+  <!-- Text: AXENTX -->
+  <text x="95" y="68" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" letter-spacing="-1">
+    <tspan fill="#0F172A">AXEN</tspan><tspan fill="url(#blueGradient)">TX</tspan>
+  </text>
+  
+</svg>
