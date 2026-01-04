@@ -2,82 +2,58 @@
 
 # AXENTX
 
-### เราสร้าง tools ที่ dev อยากได้ แต่ไม่มีเวลาทำเอง
+**We build developer tools that actually work.**
+
+*Bangkok, Thailand 🇹🇭*
 
 </div>
 
 ---
 
-## เราเป็นใคร?
+## Who We Are
 
-เราคือทีม dev ที่เคยเจ็บมาก่อน
+เราคือทีมที่เชื่อว่า developer ควรใช้เวลาไปกับการสร้างสิ่งใหม่ ไม่ใช่มานั่งแก้ปัญหาเดิมๆ ซ้ำแล้วซ้ำเล่า
 
-เคยนั่ง monitor cloud costs ทุกเช้า เคยโดนถามว่า "ทำไมเดือนนี้แพงขึ้น?" แล้วต้องไล่หาคำตอบเป็นชั่วโมง เคยพัง production เพราะ resize instance ผิดตัว
-
-**เราเข้าใจปัญหา เพราะเราเจอมันทุกวัน**
+เราเคยเป็น dev มาก่อน เราเข้าใจว่าอะไรที่ทำให้หงุดหงิด อะไรที่กินเวลา และอะไรที่ควรจะง่ายกว่านี้ได้
 
 ---
 
-## Vision
+## Our Vision
 
-> *"ให้ dev มีเวลาไปทำสิ่งที่สำคัญกว่า*
-> *แทนที่จะมานั่งทำงานซ้ำๆ ที่ควรจะ automate ได้ตั้งนานแล้ว"*
-
----
-
-## ทำไมต้องเรา?
-
-🎯 **เราเข้าใจปัญหาจริง** — ไม่ใช่แค่อ่าน requirement แล้วเขียน code
-
-⚡ **เราสร้างของที่ใช้งานได้จริง** — ไม่ใช่ demo สวยๆ แต่ใช้จริงไม่ได้
-
-🔧 **เราคิดแบบ dev** — UX ที่ dev ใช้แล้วไม่หงุดหงิด
-
-📉 **เราลดความผิดพลาด** — ระบบที่ช่วยให้คุณไม่พัง production ตอนตี 3
+> *"Empower developers to focus on what matters —*
+> *by eliminating the friction that slows them down."*
 
 ---
 
-## สิ่งที่เราสร้าง
+## Why Us
 
-### 🔭 Costinel
-**Cloud Cost Management Platform**
+🎯 **Built by developers, for developers**
+เราไม่ได้แค่เขียน code — เราใช้ tools ที่เราสร้างเองทุกวัน
 
-- เห็นค่าใช้จ่าย Cloud แบบ real-time
-- รู้ก่อนว่าอะไรจะพุ่ง ก่อนที่มันจะพุ่ง
-- Recommendations ที่ actionable ไม่ใช่แค่ "ลดค่าใช้จ่ายสิ"
-- Audit trail ครบ ตอบคำถาม CFO ได้ทันที
+⚡ **Practical over perfect**
+Ship ของที่ใช้งานได้จริง ไม่ใช่ demo สวยๆ ที่ใช้จริงไม่ได้
 
-### ⚡ AxiomOps
-**Infrastructure Automation Platform**
+🔧 **Solve real problems**
+ทุก feature มาจากปัญหาจริงที่เราเจอ ไม่ใช่ idea ลอยๆ
 
-- Execute changes อย่างปลอดภัย
-- Rollback อัตโนมัติถ้ามีปัญหา
-- ไม่ต้องกลัวพัง production อีกต่อไป
+📈 **Continuous improvement**
+เราฟัง feedback และ iterate อย่างต่อเนื่อง
 
 ---
 
-## ปัญหาที่เราแก้
+## What We Believe
 
-| ปัญหา | สิ่งที่เราทำ |
-|-------|-------------|
-| ไม่รู้ว่า cloud แพงเพราะอะไร | Dashboard ที่บอกได้ทันทีว่าอะไรกิน budget |
-| ต้องนั่ง monitor เอง | Alert อัตโนมัติก่อนที่จะบานปลาย |
-| กลัวพัง production | Safety checks ก่อน execute ทุกครั้ง |
-| ตอบคำถาม management ไม่ได้ | Reports พร้อมส่งได้เลย |
-| ทำงานซ้ำๆ ทุกวัน | Automate งาน routine ให้หมด |
-
----
-
-## Tech Stack
-
-`React` `TypeScript` `PostgreSQL` `Docker` `AWS` `GCP` `Azure`
+- **Time is precious** — ทุกนาทีที่ dev เสียไปกับงาน routine คือนาทีที่หายไปจากการสร้างสิ่งใหม่
+- **Simplicity wins** — Complex solutions create complex problems
+- **Trust through transparency** — Open source เมื่อเป็นไปได้ ซื่อสัตย์เสมอ
+- **Quality over quantity** — ทำน้อยแต่ทำให้ดี
 
 ---
 
 <div align="center">
 
-**Less firefighting. More building.**
+**Less friction. More flow.**
 
-*สร้างโดยทีมที่เข้าใจว่า dev ต้องการอะไร 🇹🇭*
+[![GitHub](https://img.shields.io/badge/GitHub-AXENTX-181717?style=flat&logo=github)](https://github.com/AXENTX)
 
 </div>
